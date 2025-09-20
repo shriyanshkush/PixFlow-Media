@@ -34,3 +34,58 @@ Clone the repository:
 git clone https://github.com/your-username/PixFlow.git
 cd PixFlow
 ```
+
+## 🛠 Tech Stack
+- Kotlin
+- Jetpack Compose
+- MVVM Architecture
+- Material Design 3
+- Room Database – for storing favorites and downloaded media
+- Coil – for image loading
+- WorkManager – for background tasks like downloads
+
+---
+
+## ⚔️ Challenges & Solutions
+
+| Challenge | Solution |
+| --- | --- |
+| Handling offline downloads | Stored media locally with `localPath` and `isDownloaded` flags in Room |
+| Smooth image & video loading | Used Coil for images and ExoPlayer for videos with caching |
+| Efficient UI updates | StateFlow + Compose LazyColumn for performant scrolling |
+
+---
+
+## 🌱 Future Improvements
+- 🔍 Add advanced search filters (category, resolution, video length)  
+- 🎙️ Add text-to-speech descriptions for images/videos  
+- 🌐 Integrate Pexels API updates in real-time  
+- 🌟 Daily trending media notifications  
+- 🖼️ Add customizable gallery layouts  
+
+---
+
+## 📦 Libraries Used
+- Jetpack Compose
+- Room Database
+- Material Design 3
+- Coil
+- ExoPlayer
+- ViewModel & StateFlow
+
+---
+
+## 📬 Contact
+- **Name:** [Your Name]  
+- **LinkedIn:** [Your LinkedIn URL]  
+- **GitHub:** [Your GitHub URL]  
+- **Email:** [Your Email]  
+
+---
+
+## 📸 Screenshots
+1. _Browsing popular media_  
+2. _Search functionality_  
+3. _Favorite media_  
+4. _Media download screen_  
+5. _Viewing downloaded media_
