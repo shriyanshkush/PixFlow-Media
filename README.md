@@ -76,10 +76,10 @@ cd PixFlow
 ---
 
 ## 📬 Contact
-- **Name:** [Your Name]  
-- **LinkedIn:** [Your LinkedIn URL]  
-- **GitHub:** [Your GitHub URL]  
-- **Email:** [Your Email]  
+- **Name:** Shriyansh Kushwaha
+- **LinkedIn:** https://www.linkedin.com/in/shriyansh-kushwaha-88357a28a 
+- **GitHub:** https://github.com/shriyanshkush/
+- **Email:** shriyanshk133@gmail.com  
 
 ---
 
